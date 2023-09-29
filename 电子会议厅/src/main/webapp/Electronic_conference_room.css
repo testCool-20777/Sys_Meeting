@@ -1,0 +1,133 @@
+#main{
+    width: 1200px;
+    height: auto;
+    border: 0px solid #030303;
+    vertical-align: center;
+    
+}
+#header
+{
+    height: 100px;
+    width: 1200px;
+    background-color: rgb(71, 130, 219);
+    font-size: 40px;
+    font-family: '黑体';
+    font-weight: bold;
+    vertical-align: middle;
+    display: table-cell;
+}
+#menuBar {
+    height: 32px;
+    background-color:  #b3d3e5;
+    font-size: 16px;
+
+
+    
+}
+#leftMenu {
+    width:200px;
+    height: 400px;
+    float:left;
+    background-color: rgb(164, 224, 254);
+
+}
+#content {
+    width:1000px;
+    height: 400px;
+    float:left;
+    background-color: rgb(255, 255, 255);
+    align-content: left;
+    
+    
+}
+#footer {
+    height: 32px;
+    width: 1200px;
+    background-color:  #b3d3e5;
+    clear: both;
+    text-align: center;
+    font-size: 16px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.textMenu {
+    text-decoration: none;
+    vertical-align: sub;
+}
+.images {
+width: 260px;
+height: 90px;
+object-fit: cover;
+vertical-align: middle;
+
+}
+.htm1
+{
+    font-family: '宋体';
+    font-size: 12pt;
+
+}
+
+#show
+{
+
+    font-family: '宋体';
+    font-weight: bold;
+    font-size:16px;
+
+}
+.type
+{
+   
+        font-family: '宋体';
+        font-size: 12pt;
+        color: #0011aa;
+        text-align: left;
+        text-indent: 2em;
+        line-height: 1.6;
+   	
+    
+}
+.table1
+{
+
+    background-color: #ffffff;
+    text-align: center;
+    border-collapse: "collapse";
+    font-family: '宋体';
+
+}
+
+.text1
+{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black; 
+    width: 2mm;
+    height: 4mm;
+  
+
+    
+}
+.text2
+{
+    border-bottom: 1px solid black;
+    
+    width: 2mm;
+    height: 4mm;
+  
+
+    
+}
+.text3
+{
+    border-bottom: 1px solid black;
+
+    width: 2mm;
+    height: 4mm;
+  
+
+    
+}
+
+
+
